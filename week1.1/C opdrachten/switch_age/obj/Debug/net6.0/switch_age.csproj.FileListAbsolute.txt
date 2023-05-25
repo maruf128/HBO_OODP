@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\bin\Debug\net6.0\switch_age.exe
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\bin\Debug\net6.0\switch_age.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\bin\Debug\net6.0\switch_age.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\bin\Debug\net6.0\switch_age.dll
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\bin\Debug\net6.0\switch_age.pdb
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.dll
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\refint\switch_age.dll
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.pdb
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\switch_age.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\switch_age\obj\Debug\net6.0\ref\switch_age.dll

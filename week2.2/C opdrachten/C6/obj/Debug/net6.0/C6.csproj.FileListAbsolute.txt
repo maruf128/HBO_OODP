@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\bin\Debug\net6.0\C6.exe
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\bin\Debug\net6.0\C6.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\bin\Debug\net6.0\C6.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\bin\Debug\net6.0\C6.dll
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\bin\Debug\net6.0\C6.pdb
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.dll
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\refint\C6.dll
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.pdb
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\C6.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\C opdrachten\C6\obj\Debug\net6.0\ref\C6.dll

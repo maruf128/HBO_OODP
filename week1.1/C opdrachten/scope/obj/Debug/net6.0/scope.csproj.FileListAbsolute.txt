@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\scope\bin\Debug\net6.0\scope.exe
+C:\Users\maruf\OneDrive\Bureaublad\scope\bin\Debug\net6.0\scope.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\scope\bin\Debug\net6.0\scope.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\scope\bin\Debug\net6.0\scope.dll
+C:\Users\maruf\OneDrive\Bureaublad\scope\bin\Debug\net6.0\scope.pdb
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.dll
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\refint\scope.dll
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.pdb
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\scope.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\scope\obj\Debug\net6.0\ref\scope.dll

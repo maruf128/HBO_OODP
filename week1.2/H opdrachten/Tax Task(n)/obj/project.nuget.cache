@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+zlidfeWiTObzpFOfV4+Edilbl9VJxS+6/b/WeUlQgsXYA7pXV/r1tn1dUFsM4WafV/cNITfBZVIDwd6zg/N1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\week1.2\\H opdrachten\\Tax Task(n)\\H4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maruf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\maruf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

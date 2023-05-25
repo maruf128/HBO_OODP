@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\age\bin\Debug\net6.0\age.exe
+C:\Users\maruf\OneDrive\Bureaublad\age\bin\Debug\net6.0\age.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\age\bin\Debug\net6.0\age.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\age\bin\Debug\net6.0\age.dll
+C:\Users\maruf\OneDrive\Bureaublad\age\bin\Debug\net6.0\age.pdb
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.dll
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\refint\age.dll
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.pdb
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\age.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\age\obj\Debug\net6.0\ref\age.dll

@@ -1,0 +1,5 @@
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\proef-project\obj\Debug\net6.0\proef-project.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\proef-project\obj\Debug\net6.0\proef-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\proef-project\obj\Debug\net6.0\proef-project.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\proef-project\obj\Debug\net6.0\proef-project.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\proef-project\obj\Debug\net6.0\proef-project.csproj.CoreCompileInputs.cache

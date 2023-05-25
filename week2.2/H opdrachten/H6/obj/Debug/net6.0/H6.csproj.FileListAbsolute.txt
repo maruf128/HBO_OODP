@@ -1,0 +1,30 @@
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\bin\Debug\net6.0\H6.exe
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\bin\Debug\net6.0\H6.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\bin\Debug\net6.0\H6.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\bin\Debug\net6.0\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\bin\Debug\net6.0\H6.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\refint\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\H6.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H6\obj\Debug\net6.0\ref\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\bin\Debug\net6.0\H6.exe
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\bin\Debug\net6.0\H6.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\bin\Debug\net6.0\H6.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\bin\Debug\net6.0\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\bin\Debug\net6.0\H6.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\refint\H6.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\H6.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.2\H opdrachten\H6\obj\Debug\net6.0\ref\H6.dll

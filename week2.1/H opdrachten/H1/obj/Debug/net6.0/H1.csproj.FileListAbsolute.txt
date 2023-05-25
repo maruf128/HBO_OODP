@@ -1,0 +1,30 @@
+C:\Users\maruf\OneDrive\Bureaublad\H1\bin\Debug\net6.0\H1.exe
+C:\Users\maruf\OneDrive\Bureaublad\H1\bin\Debug\net6.0\H1.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\H1\bin\Debug\net6.0\H1.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\H1\bin\Debug\net6.0\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\H1\bin\Debug\net6.0\H1.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\refint\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\H1.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\H1\obj\Debug\net6.0\ref\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\bin\Debug\net6.0\H1.exe
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\bin\Debug\net6.0\H1.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\bin\Debug\net6.0\H1.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\bin\Debug\net6.0\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\bin\Debug\net6.0\H1.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\refint\H1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\H1.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week2.1\H opdrachten\H1\obj\Debug\net6.0\ref\H1.dll

@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\bin\Debug\net6.0\C2.exe
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\bin\Debug\net6.0\C2.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\bin\Debug\net6.0\C2.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\bin\Debug\net6.0\C2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\bin\Debug\net6.0\C2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\refint\C2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\C2.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week12.1\Copdrachten\C2\obj\Debug\net6.0\ref\C2.dll

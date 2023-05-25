@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\C4\bin\Debug\net6.0\C4.exe
+C:\Users\maruf\OneDrive\Bureaublad\C4\bin\Debug\net6.0\C4.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\C4\bin\Debug\net6.0\C4.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\C4\bin\Debug\net6.0\C4.dll
+C:\Users\maruf\OneDrive\Bureaublad\C4\bin\Debug\net6.0\C4.pdb
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.dll
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\refint\C4.dll
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.pdb
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\C4.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\C4\obj\Debug\net6.0\ref\C4.dll

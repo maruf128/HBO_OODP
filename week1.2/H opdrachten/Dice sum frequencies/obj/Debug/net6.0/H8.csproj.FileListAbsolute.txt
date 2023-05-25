@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\H8\bin\Debug\net6.0\H8.exe
+C:\Users\maruf\OneDrive\Bureaublad\H8\bin\Debug\net6.0\H8.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\H8\bin\Debug\net6.0\H8.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\H8\bin\Debug\net6.0\H8.dll
+C:\Users\maruf\OneDrive\Bureaublad\H8\bin\Debug\net6.0\H8.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.dll
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\refint\H8.dll
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\H8.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\H8\obj\Debug\net6.0\ref\H8.dll

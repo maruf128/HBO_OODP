@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\H7\bin\Debug\net6.0\H7.exe
+C:\Users\maruf\OneDrive\Bureaublad\H7\bin\Debug\net6.0\H7.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\H7\bin\Debug\net6.0\H7.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\H7\bin\Debug\net6.0\H7.dll
+C:\Users\maruf\OneDrive\Bureaublad\H7\bin\Debug\net6.0\H7.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.dll
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\refint\H7.dll
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\H7.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\H7\obj\Debug\net6.0\ref\H7.dll

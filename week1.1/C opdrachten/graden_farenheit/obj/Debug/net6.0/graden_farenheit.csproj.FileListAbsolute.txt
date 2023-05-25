@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\bin\Debug\net6.0\graden_farenheit.exe
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\bin\Debug\net6.0\graden_farenheit.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\bin\Debug\net6.0\graden_farenheit.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\bin\Debug\net6.0\graden_farenheit.dll
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\bin\Debug\net6.0\graden_farenheit.pdb
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.dll
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\refint\graden_farenheit.dll
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.pdb
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\graden_farenheit.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\graden_farenheit\obj\Debug\net6.0\ref\graden_farenheit.dll

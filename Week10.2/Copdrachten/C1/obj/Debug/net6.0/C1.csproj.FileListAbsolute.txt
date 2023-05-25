@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\bin\Debug\net6.0\C1.exe
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\bin\Debug\net6.0\C1.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\bin\Debug\net6.0\C1.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\bin\Debug\net6.0\C1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\bin\Debug\net6.0\C1.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\refint\C1.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\C1.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\Week10.2\Copdrachten\C1\obj\Debug\net6.0\ref\C1.dll

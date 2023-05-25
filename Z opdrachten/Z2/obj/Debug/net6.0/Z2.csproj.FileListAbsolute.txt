@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\Z2\bin\Debug\net6.0\Z2.exe
+C:\Users\maruf\OneDrive\Bureaublad\Z2\bin\Debug\net6.0\Z2.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\Z2\bin\Debug\net6.0\Z2.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\Z2\bin\Debug\net6.0\Z2.dll
+C:\Users\maruf\OneDrive\Bureaublad\Z2\bin\Debug\net6.0\Z2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.dll
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\refint\Z2.dll
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\Z2.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\Z2\obj\Debug\net6.0\ref\Z2.dll

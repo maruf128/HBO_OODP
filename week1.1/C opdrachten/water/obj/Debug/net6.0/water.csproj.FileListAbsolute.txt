@@ -1,0 +1,15 @@
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\water\bin\Debug\net6.0\water.exe
+C:\Users\maruf\OneDrive\Bureaublad\water\bin\Debug\net6.0\water.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\water\bin\Debug\net6.0\water.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\water\bin\Debug\net6.0\water.dll
+C:\Users\maruf\OneDrive\Bureaublad\water\bin\Debug\net6.0\water.pdb
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.dll
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\refint\water.dll
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.pdb
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\water.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\water\obj\Debug\net6.0\ref\water.dll

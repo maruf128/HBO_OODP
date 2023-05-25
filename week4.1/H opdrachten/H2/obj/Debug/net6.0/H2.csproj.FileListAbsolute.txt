@@ -1,0 +1,34 @@
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\bin\Debug\net6.0\H2.exe
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\bin\Debug\net6.0\H2.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\bin\Debug\net6.0\H2.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\bin\Debug\net6.0\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\bin\Debug\net6.0\H2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.csproj.CopyComplete
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\refint\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\H2.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\H opdrachten\H2\obj\Debug\net6.0\ref\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\bin\Debug\net6.0\H2.exe
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\bin\Debug\net6.0\H2.deps.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\bin\Debug\net6.0\H2.runtimeconfig.json
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\bin\Debug\net6.0\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\bin\Debug\net6.0\H2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.csproj.CoreCompileInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.csproj.CopyComplete
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\refint\H2.dll
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.pdb
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\H2.genruntimeconfig.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\week4.1\H opdrachten\H2\obj\Debug\net6.0\ref\H2.dll

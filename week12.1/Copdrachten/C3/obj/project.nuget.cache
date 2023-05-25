@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpvZAyxcVnMzDYE/LW2e+57c4Lx4pqPvclidTc8diJmFKgGJ16kPRQuRazXYzh7oVaY8+s04zTkH6iI1dqH2lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\week12.1\\Copdrachten\\C3\\C3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maruf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\maruf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
