@@ -1,0 +1,5 @@
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\OODP\HBO_OODP\week4.1\C opdrachten\C6\obj\Debug\net6.0\C6.csproj.AssemblyReference.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\OODP\HBO_OODP\week4.1\C opdrachten\C6\obj\Debug\net6.0\C6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\OODP\HBO_OODP\week4.1\C opdrachten\C6\obj\Debug\net6.0\C6.AssemblyInfoInputs.cache
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\OODP\HBO_OODP\week4.1\C opdrachten\C6\obj\Debug\net6.0\C6.AssemblyInfo.cs
+C:\Users\maruf\OneDrive\Bureaublad\semester 2\OODP\HBO_OODP\week4.1\C opdrachten\C6\obj\Debug\net6.0\C6.csproj.CoreCompileInputs.cache

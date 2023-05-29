@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zh0T/DzFiEMyJ6TrfWQwOK0FABAgo90U0x56H6KnKdwOCG4OvOjK30DPB3iFGc/dVb+274YULPJWA/jnbOOUnQ==",
+  "dgSpecHash": "TCFKFs4WD399sQ8vEjrx464BrrougF/ORjhKFAGOuPfjevUwPu1spDX/nEN6eQQ6+gNyEfUX+z8FSsNjJfhQww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\week12.1\\Copdrachten\\C4\\C4.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\maruf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\maruf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\OODP\\HBO_OODP\\week12.1\\copdrachten\\c4\\C4.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

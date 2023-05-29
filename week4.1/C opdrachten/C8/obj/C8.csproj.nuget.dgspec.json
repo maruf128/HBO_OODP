@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maruf\\OneDrive\\Bureaublad\\C opdrachten\\C8\\C8.csproj": {}
+    "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\OODP\\HBO_OODP\\week4.1\\C opdrachten\\c8\\C8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maruf\\OneDrive\\Bureaublad\\C opdrachten\\C8\\C8.csproj": {
+    "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\OODP\\HBO_OODP\\week4.1\\C opdrachten\\c8\\C8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\C opdrachten\\C8\\C8.csproj",
+        "projectUniqueName": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\OODP\\HBO_OODP\\week4.1\\C opdrachten\\c8\\C8.csproj",
         "projectName": "C8",
-        "projectPath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\C opdrachten\\C8\\C8.csproj",
+        "projectPath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\OODP\\HBO_OODP\\week4.1\\C opdrachten\\c8\\C8.csproj",
         "packagesPath": "C:\\Users\\maruf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\C opdrachten\\C8\\obj\\",
+        "outputPath": "C:\\Users\\maruf\\OneDrive\\Bureaublad\\semester 2\\OODP\\HBO_OODP\\week4.1\\C opdrachten\\c8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maruf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
